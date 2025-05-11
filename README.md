@@ -85,7 +85,9 @@ General Customer Service: Answer general inquiries and provide helpful informati
 Healthcare: Answer common questions, schedule appointments, and direct patients to the appropriate resources. 🏥
 
 **Contribution 🤝**
+
 We welcome contributions from developers, designers, and enthusiasts! Whether you want to help improve the chatbot’s algorithms, add new features, or improve documentation, your input is valuable. Please check the Contributing Guide for more information on how to get involved.
+
 **Acknowledgments 🙏**
 
 We would like to thank all the contributors, AI researchers, and developers who have made this project possible. Special thanks to the communities behind the open-source libraries we used in this project. 🤗
